@@ -6,8 +6,8 @@ font-family: 'Work Sans', sans-serif;
 
 :root {
     --tipografiaTitulos : 'Raleway', sans-serif;
-    --tipografiaTitulos : 'Work Sans', sans-serif;
-    --tipografiaTitulos : 'Open Sans', sans-serif;
+    --tipografiaEmilia : 'Work Sans', sans-serif;
+    --tipografiaGeneral : 'Open Sans', sans-serif;
     --colorVerde : #44a391;
 }
 
